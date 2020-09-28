@@ -14,7 +14,7 @@ This App will allow you to get weather information by the city name you want to 
 
 ## Live Demo
 
-[Live Demo Link](https://yocosaka-weather-app.herokuapp.com/)
+[Live Demo Link](https://yokosaka-weather-app.herokuapp.com/)
 
 
 ## Getting Started
