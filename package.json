@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "start": "node src/app.js",
     "dev": "nodemon src/app.js js,hbs"
   },
   "author": "Yoko Saka",
