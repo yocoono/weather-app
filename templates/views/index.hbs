@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>{{title}}</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css">
+  <link rel="stylesheet" href="/styles/style.css">
+</head>
+<body>
+
+  <div class="content-wrapper">
+    {{>header}}
+    <main>
+      <p>{{description}}</p>
+      <form class="search">
+        <input type="text" name="searchText" class="search__text" placeholder="Please input city name by alphabet. For example: tokyo">
+        <button>Search</button>
+      </form>
+      <div class="results">
+        <div class="result result1"></div>
+        <div class="result result2"></div>
+      </div>
+    </main>
+    {{>footer}}
+  </div>
+
+
+
+  <script src="/scripts/app.js"></script>
+</body>
+</html>
