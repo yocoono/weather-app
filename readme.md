@@ -5,7 +5,7 @@
 ## About the Project
 
 This App will allow you to get weather information by the city name you want to know about its weather.
-This project is based on [The Complete Node.js Developer Course by Andrew Mead](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
+This project is based on [The Complete Node.js Developer Course by Andrew Mead](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/).
 A list of commonly used resources that I find helpful is listed in the acknowledgments.
 
 
