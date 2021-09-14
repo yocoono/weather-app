@@ -72,11 +72,10 @@ Give a ⭐️ if you like this project!
 
 ## 📝 License
 
-This project is [MIT](./LICENSE) licensed.
+The concept of this application is based on - [The Complete Node.js Developer Course](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/) by Andrew Mead. Except for that, this project is [MIT](./LICENSE) licensed.
 
 
 ## Acknowledgements
-- [The Complete Node.js Developer Course by Andrew Mead](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
 - [Mapbox API](https://docs.mapbox.com/api/overview/)
 - [OpenWeatherMap API](https://openweathermap.org/api)
-
+- [The Complete Node.js Developer Course by Andrew Mead](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/)
