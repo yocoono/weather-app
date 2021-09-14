@@ -3,15 +3,14 @@
 
 
 ## About the Project
-
-This project is based on [The Complete Node.js Developer Course by Andrew Mead](https://www.udemy.com/course/the-complete-nodejs-developer-course-2/).
-With this App, you can get weather information with the city name you may want to check the weather in.
+Weather application built with Node.js, Handlebars, Mapbox API and OpenWeatherMap API. It allows you to know the weather information with the city name you want to check.
 A list of commonly used resources that I find helpful is listed in the acknowledgments.
 
 
 ## Built With
 
-- JavaScript, Node.js
+- JavaScript
+- Node.js
 - Handlebars
 - CSS
 
